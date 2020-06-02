@@ -2,6 +2,7 @@
 function do()
 {
 	alert("do...");
+	console.log("ffff");
 }
 
 do();
