@@ -1,0 +1,8 @@
+/* this ist he strat */
+function do()
+{
+	alert("do...");
+}
+
+do();
+
